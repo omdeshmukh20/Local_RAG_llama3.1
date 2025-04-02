@@ -19,13 +19,21 @@ Streamlit UI: Interactive web interface for querying webpage content.
 📂 Project Structure
 
 Local_Llama3_RAG/
+
 │── app.py               # Main entry point (Run this file)
+
 │── loader.py            # Loads webpage content
+
 │── splitter.py          # Splits text into chunks
+
 │── embedding.py         # Converts text into vectors
+
 │── model.py             # Llama3 model for response generation
+
 │── retriever.py         # Retrieves relevant info from the database
+
 │── requirements.txt     # Required Python libraries
+
 │── README.md            # Project documentation
 
 🛠 Installation
@@ -77,4 +85,4 @@ Contributions are welcome! Feel free to submit issues or pull requests.
 
 📞 Contact
 
-For any queries, reach out via GitHub or email at your-omdeshukh2026@gmail.com.
+For any queries, reach out via GitHub or email at -omdeshukh2026@gmail.com.
