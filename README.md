@@ -86,4 +86,4 @@ Contributions are welcome! Feel free to submit issues or pull requests.
 
 ## 📞 Contact
 
-For any queries, reach out via GitHub or email at -omdeshukh2026@gmail.com.
+For any queries, reach out via GitHub or email at -omdeshmukh2026@gmail.com.
